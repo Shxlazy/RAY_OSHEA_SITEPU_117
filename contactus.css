@@ -1,0 +1,22 @@
+.maps{
+	float: left;
+	margin-right: 100px;
+}
+.maps.k{
+	float: right;
+
+}
+.img{
+	float: left;
+	  box-shadow: 7px 7px 10px 15px;
+   }
+   
+.text{
+	float: left;
+
+}
+
+
+
+
+
